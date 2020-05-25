@@ -4179,11 +4179,6 @@
     <property name="Rockets Can Fly Over Impassables" value="true" editable="false">
       <boolean/>
     </property>
-    <!-- Pacific Theater does 4 things: allows nations to gain VictoryPoints by capturing PUs, allows Strategic Bombing to destroy VPs,
-								allows NoPU purchases (ww2v3 does also), and allows an additional purchase in NOPU purchases if you control the Burma Road
-				<property name="Pacific Theater" value="false" editable="false">
-						<boolean/>
-				</property>-->
     <!-- These require an associated value in the attachments section above-->
     <property name="Movement By Territory Restricted" value="true" editable="false">
       <boolean/>
